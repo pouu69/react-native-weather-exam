@@ -9,7 +9,7 @@ import {
 const WINSIZE = Dimensions.get('window');
 const {width, height} = Dimensions.get('window');
 
-class TyleWebView extends Component {
+class DetailWeatherView extends Component {
     constructor(props){
         super(props);
     }
