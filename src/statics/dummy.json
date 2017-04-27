@@ -1,0 +1,36 @@
+{
+  "msg": "ok",
+  "code": 1,
+  "data" : {
+      "id": 1,
+      "status" : "좋음",
+      "statusNum" : 52,
+      "locale" : "서울",
+      "eachTimeData": [
+          {
+              "id" : 2,
+              "date": "어제",
+              "key": "item1",
+              "status" : "좋음",
+              "statusNum" : 52,
+              "locale" : "서울"
+          },
+          {
+              "id" : 3,
+              "date": "오늘",
+              "key": "item2",
+              "status" : "나쁨",
+              "statusNum" : 100,
+              "locale" : "서울"
+          },
+          {
+              "id" : 4,
+              "date": "내일",
+              "key": "item3",
+              "status" : "보통",
+              "statusNum" : 80,
+              "locale" : "서울"
+          }
+      ]
+    }
+}

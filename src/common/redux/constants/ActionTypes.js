@@ -1,0 +1,9 @@
+export const START_FETCH_DUST = 'START_FETCH_DUST';
+export const FETCH_DUST = 'FETCH_DUST';
+export const SWITCH_MAIN_TAB = 'SWITCH_MAIN_TAB';
+
+
+export const ENTER_HOME_VIEW      = 'ENTER_HOME_VIEW';
+export const LEAVE_HOME_VIEW      = 'LEAVE_HOME_VIEW';
+export const ENTER_APPSTATE_VIEW  = 'ENTER_APPSTATE_VIEW';
+export const LEAVE_APPSTATE_VIEW  = 'LEAVE_APPSTATE_VIEW';
